@@ -1,0 +1,4 @@
+{
+    "speed": 2.0,
+    "N_Sled_lvl_Kolya": 5
+}
